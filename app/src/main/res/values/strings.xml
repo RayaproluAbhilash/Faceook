@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="username_or_phone_number">Username or phone number</string>
+    <string name="password">Password</string>
+    <string name="or">OR</string>
+    <string name="log_in">Log in</string>
+    <string name="create_a_new_facebook_account">Create a new facebook account</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Email_Address">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="Sign_up">Sign up</string>
+    <item name="reg" type="id" />
+</resources>
